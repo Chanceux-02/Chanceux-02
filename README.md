@@ -1,5 +1,5 @@
 # Portfolio
-[https://chanceux-02.github.io/Louie-Jay-Cantores-Portfolio/)
+https://chanceux-02.github.io/Louie-Jay-Cantores-Portfolio/
 
 ### Hi there 👋
 
