@@ -10,7 +10,7 @@ I am eager to develop my problem-solving abilities and hone my creative approach
 You can **Find me in** [**LinkedIn**](https://www.linkedin.com/in/louie-jay-cantores-988a79233/).
 <br>
 
-### Framework and tools Tech Stack...
+### Framework and Tools Tech Stack...
 HTML, CSS, BOOTSTRAP, TAILWIND, JS, JQUERY, PHP, LARAVEL, MYSQL, Phtotoshop
 ![tech stack](https://user-images.githubusercontent.com/99269976/224469076-257a69d2-4d40-4891-8918-6750cba4160d.png)
 
