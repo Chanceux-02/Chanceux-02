@@ -11,7 +11,7 @@ You can **Find me in** [**LinkedIn**](https://www.linkedin.com/in/louie-jay-cant
 <br>
 
 ### Framework and Tools Tech Stack...
-HTML, CSS, BOOTSTRAP, TAILWIND, JS, JQUERY, PHP, LARAVEL, MYSQL, Phtotoshop
+HTML, CSS, BOOTSTRAP, TAILWIND, JavaScript, JQUERY, Node.js, Express.js PHP, LARAVEL, MYSQL, Phtotoshop
 ![tech stack](https://user-images.githubusercontent.com/99269976/224469076-257a69d2-4d40-4891-8918-6750cba4160d.png)
 
 <br>
